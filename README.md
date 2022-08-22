@@ -18,4 +18,8 @@ if you want to download every mod in one go there is a file that is caled
 but if you want to only download one spesific mod you can do so in the "mods" branche.
 
 
-# license
+# License
+
+i do not have all the rights for all these mods.
+if you own one of these mods and want it removed. just say it to me and i will remove it from the file.
+or if you own a overpowerd modmenu and want it in the file. just say it to me and i will add it from the file.
