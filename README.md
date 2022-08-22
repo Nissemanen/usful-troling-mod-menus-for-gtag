@@ -1,4 +1,4 @@
-!!! READ FIRST !!!
+#!!! READ FIRST !!!
 
 1# there might be two of the same mod menus in this file.
 
