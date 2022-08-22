@@ -8,4 +8,4 @@
 
 4# use these mods at your own risk!
 
-5# the mods above may not be all. i advise you do downloud "usful mod menus(all mod menus).zip"
+5# the mods above may not be all. i advise you do downloud "usful mod menus(all mods in one).zip"
