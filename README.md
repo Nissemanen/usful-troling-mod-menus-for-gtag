@@ -1,4 +1,4 @@
-# usful-troling-mod-menus-for-gtag
+# !!! READ BEFOR INSTALING MODS !!!
 
 1# there might be two of the same mod menus in this file.
 
